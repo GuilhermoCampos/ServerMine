@@ -1,0 +1,38 @@
+[10:36:17] [ServerMain/INFO]: Building unoptimized datafixer
+[10:36:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:36:19] [ServerMain/INFO]: Loaded 7 recipes
+[10:36:19] [ServerMain/INFO]: Loaded 1179 advancements
+[10:36:20] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[10:36:20] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[10:36:20] [Server thread/INFO]: Loading properties
+[10:36:20] [Server thread/INFO]: Default game type: SURVIVAL
+[10:36:20] [Server thread/INFO]: Generating keypair
+[10:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:36:20] [Server thread/INFO]: Using default channel type
+[10:36:20] [Server thread/INFO]: Preparing level "AQUA BEBE GRAVA Spigot"
+[10:36:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:36:25] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:36:26] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[10:36:26] [Server thread/INFO]: Time elapsed: 5737 ms
+[10:36:26] [Server thread/INFO]: Done (5.853s)! For help, type "help"
+[10:44:33] [Server thread/INFO]: Stopping the server
+[10:44:33] [Server thread/INFO]: Stopping server
+[10:44:33] [Server thread/INFO]: Saving players
+[10:44:33] [Server thread/INFO]: Saving worlds
+[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:overworld
+[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:the_nether
+[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:the_end
+[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (AQUA BEBE GRAVA Spigot): All chunks are saved
+[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
