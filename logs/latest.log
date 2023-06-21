@@ -1,38 +1,60 @@
-[10:36:17] [ServerMain/INFO]: Building unoptimized datafixer
-[10:36:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:36:19] [ServerMain/INFO]: Loaded 7 recipes
-[10:36:19] [ServerMain/INFO]: Loaded 1179 advancements
-[10:36:20] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[10:36:20] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[10:36:20] [Server thread/INFO]: Loading properties
-[10:36:20] [Server thread/INFO]: Default game type: SURVIVAL
-[10:36:20] [Server thread/INFO]: Generating keypair
-[10:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:36:20] [Server thread/INFO]: Using default channel type
-[10:36:20] [Server thread/INFO]: Preparing level "AQUA BEBE GRAVA Spigot"
-[10:36:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:36:25] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:36:26] [Worker-Main-14/INFO]: Preparing spawn area: 48%
-[10:36:26] [Server thread/INFO]: Time elapsed: 5737 ms
-[10:36:26] [Server thread/INFO]: Done (5.853s)! For help, type "help"
-[10:44:33] [Server thread/INFO]: Stopping the server
-[10:44:33] [Server thread/INFO]: Stopping server
-[10:44:33] [Server thread/INFO]: Saving players
-[10:44:33] [Server thread/INFO]: Saving worlds
-[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:overworld
-[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:the_nether
-[10:44:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AQUA BEBE GRAVA]'/minecraft:the_end
-[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (AQUA BEBE GRAVA Spigot): All chunks are saved
-[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:44:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:35:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:35:24] [ServerMain/INFO]: Loaded 7 recipes
+[21:35:24] [ServerMain/INFO]: Loaded 1271 advancements
+[21:35:25] [Server thread/INFO]: Starting minecraft server version 1.20
+[21:35:25] [Server thread/INFO]: Loading properties
+[21:35:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:35:25] [Server thread/INFO]: Generating keypair
+[21:35:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:35:25] [Server thread/INFO]: Using default channel type
+[21:35:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:35:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:35:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:35:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:35:25] [Server thread/INFO]: Preparing level "TRIBOPAPAXOTAÂ²"
+[21:35:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:35:27] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[21:35:27] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:35:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:35:27] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[21:35:28] [Worker-Main-7/INFO]: Preparing spawn area: 16%
+[21:35:28] [Server thread/INFO]: Time elapsed: 2272 ms
+[21:35:28] [Server thread/INFO]: Done (2.836s)! For help, type "help"
+[21:37:22] [Server thread/INFO]: Kirbo_de_Gui[/127.0.0.1:55432] logged in with entity id 144 at (174.60146836249268, 70.0, -169.57183693062674)
+[21:37:22] [Server thread/INFO]: Kirbo_de_Gui joined the game
+[21:38:23] [Server thread/INFO]: JosephJoseph019[/[0:0:0:0:0:0:0:1]:55442] logged in with entity id 287 at (186.71808967804063, 75.0, -168.11782815873627)
+[21:38:23] [Server thread/INFO]: JosephJoseph019 joined the game
+[22:08:06] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Fishy Business]
+[22:21:06] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Tactical Fishing]
+[22:28:45] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Not Today, Thank You]
+[22:28:48] [Server thread/INFO]: JosephJoseph019 has made the advancement [Voluntary Exile]
+[22:34:58] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Ol' Betsy]
+[22:38:57] [Server thread/INFO]: JosephJoseph019 has made the advancement [Best Friends Forever]
+[22:48:22] [Server thread/INFO]: [Not Secure] <Kirbo_de_Gui> 180 62 -150
+[22:59:38] [Server thread/INFO]: JosephJoseph019 was blown up by Creeper
+[23:00:14] [Server thread/INFO]: Teleported JosephJoseph019 to Kirbo_de_Gui
+[23:00:38] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [The Parrots and the Bats]
+[23:20:58] [Server thread/WARN]: Boat (vehicle of Kirbo_de_Gui) moved wrongly! 0.67981968075037
+[23:21:12] [Server thread/INFO]: JosephJoseph019 has made the advancement [Who is Cutting Onions?]
+[23:21:33] [Server thread/INFO]: JosephJoseph019 has made the advancement [Ice Bucket Challenge]
+[23:23:40] [Server thread/INFO]: JosephJoseph019 was impaled by Drowned
+[23:25:11] [Server thread/INFO]: Kirbo_de_Gui was slain by Drowned
+[23:31:52] [Server thread/WARN]: Boat (vehicle of Kirbo_de_Gui) moved wrongly! 0.3557451516389847
+[23:34:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=375, y=56, z=124} gu{x=375, y=57, z=124}
+[23:34:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=375, y=56, z=124} gu{x=375, y=57, z=124}
+[23:35:07] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Diamonds!]
+[23:54:22] [Server thread/INFO]: JosephJoseph019 lost connection: Disconnected
+[23:54:22] [Server thread/INFO]: JosephJoseph019 left the game
+[23:54:24] [Server thread/INFO]: Kirbo_de_Gui lost connection: Disconnected
+[23:54:24] [Server thread/INFO]: Kirbo_de_Gui left the game
+[23:54:59] [Server thread/INFO]: Stopping the server
+[23:54:59] [Server thread/INFO]: Stopping server
+[23:54:59] [Server thread/INFO]: Saving players
+[23:54:59] [Server thread/INFO]: Saving worlds
+[23:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:overworld
+[23:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_end
+[23:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_nether
+[23:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (TRIBOPAPAXOTAÂ²): All chunks are saved
+[23:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
