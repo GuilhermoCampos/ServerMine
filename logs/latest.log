@@ -1,45 +1,21 @@
-[00:09:17] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [We Need to Go Deeper]
-[00:09:18] [Server thread/INFO]: JosephJoseph019 has made the advancement [We Need to Go Deeper]
-[01:46:40] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [A Terrible Fortress]
-[01:46:52] [Server thread/INFO]: JosephJoseph019 has made the advancement [A Terrible Fortress]
-[01:46:52] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Into Fire]
-[01:48:43] [Server thread/INFO]: Kirbo_de_Gui walked into fire whilst fighting Blaze
-[01:49:08] [Server thread/INFO]: Teleported Kirbo_de_Gui to JosephJoseph019
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:49:08] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! 191.22335859780623,-5.0,152.62330454138657
-[01:53:42] [Server thread/INFO]: JosephJoseph019 has made the advancement [Into Fire]
-[02:39:49] [Server thread/INFO]: Kirbo_de_Gui has made the advancement [Local Brewery]
-[02:45:06] [Server thread/INFO]: JosephJoseph019 has made the advancement [Local Brewery]
-[03:04:10] [Server thread/INFO]: [Not Secure] <Kirbo_de_Gui> ZzzzZzzZZzzzZzZzzzZZZZZzzZzzzz\
-[03:04:14] [Server thread/INFO]: [Not Secure] <JosephJoseph019> meu ovo
-[03:05:20] [Server thread/INFO]: JosephJoseph019 lost connection: Disconnected
-[03:05:20] [Server thread/INFO]: JosephJoseph019 left the game
-[03:59:30] [Server thread/INFO]: Stopping the server
-[03:59:30] [Server thread/INFO]: Stopping server
-[03:59:30] [Server thread/INFO]: Saving players
-[03:59:30] [Server thread/INFO]: Kirbo_de_Gui lost connection: Server closed
-[03:59:30] [Server thread/INFO]: Kirbo_de_Gui left the game
-[03:59:31] [Server thread/INFO]: Saving worlds
-[03:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:overworld
-[03:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_nether
-[03:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_end
-[03:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (TRIBOPAPAXOTAÂ²): All chunks are saved
-[03:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:15:34] [Server thread/INFO]: [Not Secure] <Kirbo_de_Gui> 509 -28
+[01:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5196, y=95, z=-273} gu{x=5195, y=94, z=-273}
+[01:21:05] [Server thread/INFO]: Kirbo_de_Gui lost connection: Disconnected
+[01:21:05] [Server thread/INFO]: Kirbo_de_Gui left the game
+[01:21:08] [Server thread/INFO]: Kirbo_de_Gui[/127.0.0.1:55231] logged in with entity id 45344 at (179.10018485107807, 80.5625, -176.70636425210074)
+[01:21:08] [Server thread/INFO]: Kirbo_de_Gui joined the game
+[01:21:26] [Server thread/INFO]: JosephJoseph019 lost connection: Disconnected
+[01:21:26] [Server thread/INFO]: JosephJoseph019 left the game
+[01:21:27] [Server thread/INFO]: Kirbo_de_Gui lost connection: Disconnected
+[01:21:27] [Server thread/INFO]: Kirbo_de_Gui left the game
+[01:21:36] [Server thread/INFO]: Stopping the server
+[01:21:36] [Server thread/INFO]: Stopping server
+[01:21:36] [Server thread/INFO]: Saving players
+[01:21:36] [Server thread/INFO]: Saving worlds
+[01:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:overworld
+[01:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_end
+[01:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_nether
+[01:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (TRIBOPAPAXOTAÂ²): All chunks are saved
+[01:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
