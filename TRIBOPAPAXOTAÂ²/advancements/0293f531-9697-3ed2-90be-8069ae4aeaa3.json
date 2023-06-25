@@ -24,12 +24,15 @@
       "minecraft:forest": "2023-06-19 17:39:04 -0300",
       "minecraft:lush_caves": "2023-06-21 23:10:30 -0300",
       "minecraft:deep_cold_ocean": "2023-06-19 23:18:29 -0300",
+      "minecraft:desert": "2023-06-25 03:05:42 -0300",
       "minecraft:jungle": "2023-06-21 01:24:29 -0300",
       "minecraft:ocean": "2023-06-21 00:28:47 -0300",
       "minecraft:old_growth_spruce_taiga": "2023-06-19 23:32:07 -0300",
+      "minecraft:flower_forest": "2023-06-25 02:12:08 -0300",
       "minecraft:old_growth_birch_forest": "2023-06-21 00:45:50 -0300",
       "minecraft:deep_dark": "2023-06-21 22:33:18 -0300",
       "minecraft:meadow": "2023-06-21 00:58:43 -0300",
+      "minecraft:savanna": "2023-06-25 03:08:03 -0300",
       "minecraft:plains": "2023-06-20 22:36:25 -0300"
     },
     "done": false
@@ -412,6 +415,7 @@
       "minecraft:blaze": "2023-06-22 01:46:33 -0300",
       "minecraft:skeleton": "2023-06-19 18:07:51 -0300",
       "minecraft:ghast": "2023-06-22 01:38:20 -0300",
+      "minecraft:vindicator": "2023-06-25 03:23:03 -0300",
       "minecraft:magma_cube": "2023-06-22 01:33:04 -0300",
       "minecraft:spider": "2023-06-19 19:13:19 -0300",
       "minecraft:creeper": "2023-06-19 18:07:43 -0300",
@@ -442,6 +446,7 @@
       "cooked_mutton": "2023-06-20 22:50:11 -0300",
       "sweet_berries": "2023-06-22 00:30:53 -0300",
       "cooked_beef": "2023-06-21 21:36:30 -0300",
+      "baked_potato": "2023-06-25 02:43:33 -0300",
       "apple": "2023-06-19 18:49:28 -0300",
       "potato": "2023-06-23 00:03:28 -0300",
       "cooked_cod": "2023-06-19 18:27:57 -0300",
@@ -450,6 +455,7 @@
       "rotten_flesh": "2023-06-19 20:00:57 -0300",
       "cookie": "2023-06-22 01:09:00 -0300",
       "glow_berries": "2023-06-21 23:20:53 -0300",
+      "melon_slice": "2023-06-25 03:28:16 -0300",
       "beetroot": "2023-06-21 23:14:34 -0300",
       "golden_carrot": "2023-06-22 02:46:51 -0300",
       "cooked_chicken": "2023-06-19 23:22:14 -0300",
@@ -3035,6 +3041,102 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-06-22 03:42:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-06-25 02:29:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-06-25 02:30:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2023-06-25 02:49:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-06-25 03:08:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-06-25 02:30:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-06-25 03:08:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-25 00:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2023-06-25 02:49:55 -0300"
     },
     "done": true
   },
