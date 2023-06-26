@@ -1,32 +1,21 @@
-[00:11:53] [Server thread/INFO]: Kirbo_de_Gui was doomed to fall by Skeleton
-[00:14:40] [Server thread/INFO]: Kirbo_de_Gui was slain by Zombie
-[00:15:24] [Server thread/INFO]: Kirbo_de_Gui was doomed to fall by Skeleton
-[00:17:29] [Server thread/INFO]: Kirbo_de_Gui tried to swim in lava to escape Zombie
-[01:32:14] [Server thread/INFO]: Kirbo_de_Gui was slain by Enderman
-[01:32:35] [Server thread/INFO]: Teleported Kirbo_de_Gui to JosephJoseph019
-[01:32:35] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! -112.84240970981341,-96.5625,41.58350685392881
-[01:32:35] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! -112.84240970981341,-96.5625,41.58350685392881
-[01:32:35] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! -112.84240970981341,-96.5625,41.58350685392881
-[01:32:35] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! -112.84240970981341,-96.5625,41.58350685392881
-[01:32:35] [Server thread/WARN]: Kirbo_de_Gui moved too quickly! -112.84240970981341,-96.5625,41.58350685392881
-[02:04:09] [Server thread/INFO]: [Not Secure] <Kirbo_de_Gui> 55 211
-[02:33:12] [Server thread/INFO]: Kirbo_de_Gui was shot by Skeleton
-[03:00:43] [Server thread/INFO]: [Not Secure] <JosephJoseph019> -50608
-[03:00:53] [Server thread/INFO]: [Not Secure] <JosephJoseph019> -50 608
-[03:23:21] [Server thread/INFO]: JosephJoseph019 was slain by Vindicator
-[03:23:25] [Server thread/INFO]: Kirbo_de_Gui was slain by Vindicator
-[03:38:32] [Server thread/INFO]: Kirbo_de_Gui lost connection: Disconnected
-[03:38:32] [Server thread/INFO]: Kirbo_de_Gui left the game
-[03:38:32] [Server thread/INFO]: JosephJoseph019 lost connection: Disconnected
-[03:38:32] [Server thread/INFO]: JosephJoseph019 left the game
-[03:38:36] [Server thread/INFO]: Stopping the server
-[03:38:36] [Server thread/INFO]: Stopping server
-[03:38:36] [Server thread/INFO]: Saving players
-[03:38:36] [Server thread/INFO]: Saving worlds
-[03:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:overworld
-[03:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_end
-[03:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_nether
-[03:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (TRIBOPAPAXOTAÂ²): All chunks are saved
-[03:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:10] [Server thread/INFO]: Kirbo_de_Gui was slain by Zombie
+[00:04:11] [Server thread/INFO]: guiblack666 has made the advancement [Acquire Hardware]
+[00:22:40] [Server thread/INFO]: guiblack666 lost connection: Disconnected
+[00:22:40] [Server thread/INFO]: guiblack666 left the game
+[00:36:49] [Server thread/INFO]: JosephJoseph019 was slain by Magma Cube
+[00:38:15] [Server thread/INFO]: JosephJoseph019 was slain by Magma Cube
+[00:45:17] [Server thread/INFO]: JosephJoseph019 lost connection: Disconnected
+[00:45:17] [Server thread/INFO]: JosephJoseph019 left the game
+[00:46:04] [Server thread/INFO]: Kirbo_de_Gui lost connection: Disconnected
+[00:46:04] [Server thread/INFO]: Kirbo_de_Gui left the game
+[00:59:49] [Server thread/INFO]: Stopping the server
+[00:59:49] [Server thread/INFO]: Stopping server
+[00:59:49] [Server thread/INFO]: Saving players
+[00:59:49] [Server thread/INFO]: Saving worlds
+[00:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:overworld
+[00:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_nether
+[00:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TRIBOPAPAXOTAÂ²]'/minecraft:the_end
+[00:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (TRIBOPAPAXOTAÂ²): All chunks are saved
+[00:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
